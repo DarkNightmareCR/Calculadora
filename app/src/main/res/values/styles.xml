@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="TextoPrincipal">
+    <item name="android:textSize">40sp</item>
+</style>
+    <style name="ButtonColorN">
+        <item name="android:backgroundTint">@color/naranja</item>
+    </style>
+    <style name="ButtonColorA">
+        <item name="android:backgroundTint">@color/azul</item>
+    </style>
+    <style name="ButtonColorBoton0">
+        <item name="android:backgroundTint">@color/azul</item>
+        <item name="android:layout_weight">0.5</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+</resources>
